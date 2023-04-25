@@ -1,9 +1,11 @@
 # php-varint
 
-[![made by](https://img.shields.io/badge/made%20by-Acaisia-blue.svg?style=flat-square)](https://acaisia.com)
-[![readme](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![tests](https://github.com/team-acaisia/php-varint/actions/workflows/test.yml/badge.svg)](https://github.com/team-acaisia/php-varint/actions/workflows/test.yml)
-[![codecov](https://codecov.io/gh/team-acaisia/php-varint/branch/master/graph/badge.svg?token=9ZDZ6O74I7)](https://codecov.io/gh/team-acaisia/php-varint)
+[![Made by](https://img.shields.io/badge/made%20by-Team%20Acaisia-blue.svg?style=flat-square)](https://acaisia.com)
+[![Build Status](https://github.com/team-acaisia/php-varint/actions/workflows/CI/badge.svg)](https://github.com/team-acaisia/php-varint/actions/workflows/test.yml)
+[![Coverage Status](https://codecov.io/gh/team-acaisia/php-varint/branch/master/graph/badge.svg?token=9ZDZ6O74I7)](https://codecov.io/gh/team-acaisia/php-varint)
+[![Latest Stable Version](https://poser.pugx.org/team-acaisia/php-varint/v/stable)](https://packagist.org/packages/team-acaisia/php-varint)
+[![Total Downloads](https://poser.pugx.org/team-acaisia/php-varint/downloads)](https://packagist.org/packages/team-acaisia/php-varint)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
 > PHP Implementation of Multiformats' [unsigned-varint](https://github.com/multiformats/unsigned-varint)
 
