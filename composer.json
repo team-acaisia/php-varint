@@ -1,0 +1,32 @@
+{
+  "name": "team-acaisia/php-varint",
+  "description": "PHP Implementation of Multiformats' varint",
+  "homepage": "https://github.com/team-acaisia/php-varint",
+  "license": "MIT",
+  "require": {
+    "php-64bit": "^8.0",
+    "team-acaisia/php-bytearray": "^1.0",
+    "brick/math": "^0.11.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.1"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "Acaisia\\Multiformats\\Varint\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Acaisia\\Multiformats\\Varint\\Tests\\": "tests"
+    }
+  },
+  "authors": [
+    {
+      "name": "Rob Quist",
+      "email": "support@acaisia.com",
+      "homepage": "https://acaisia.com/"
+    }
+  ]
+}
