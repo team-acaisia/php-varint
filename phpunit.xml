@@ -10,7 +10,7 @@
          failOnWarning="true"
 >
   <testsuites>
-    <testsuite name="PHP ByteArray Tests">
+    <testsuite name="PHP Varint Tests">
       <directory>tests</directory>
     </testsuite>
   </testsuites>
@@ -19,7 +19,6 @@
   <source>
     <include>
       <directory suffix=".php">src</directory>
-      <directory suffix=".php">tests</directory>
     </include>
   </source>
 </phpunit>
